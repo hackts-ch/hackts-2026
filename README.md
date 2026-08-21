@@ -16,3 +16,7 @@ Alle Informationen zum Hackts?! 2026 Hackathon
  3. **Team-Captain** fügt die Team-Members hinzu unter
     <https://cockpit.nine.ch/de/customer/contacts>
     ![](./images/deploio-signup-invite-contacts.png)
+
+## Präsentation Upload
+
+ * Upload unter https://drive.google.com/drive/folders/1vnq7E6-R1E0FULhh-u2EwipdeOoiBnkd?usp=sharing

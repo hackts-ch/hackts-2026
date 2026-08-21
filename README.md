@@ -13,3 +13,6 @@ Alle Informationen zum Hackts?! 2026 Hackathon
     * Team-Members: Kein Kundenkonto erstellen. Ihr tretet dem Kundenkonto des
       Captain bei:
       ![](./images/deploio-signup-member.png)
+ 3. Team-Captain fügt die Team-Members hinzu unter
+    <https://cockpit.nine.ch/de/customer/contacts>
+    ![](./images/deploio-signup-invite-contacts.png)

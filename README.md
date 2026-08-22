@@ -2,6 +2,10 @@
 
 Alle Informationen zum Hackts?! 2026 Hackathon
 
+## QuackStream Webhook
+
+ * URL: https://backend.quackstream.hackts.ch/webhook
+
 ## Deploio
 
  1. Registriert euch unter <https://cockpit.nine.ch/en/fast_onboardings/new>

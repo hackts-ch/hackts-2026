@@ -4,6 +4,7 @@ Alle Informationen zum Hackts?! 2026 Hackathon
 
 ## QuackStream Webhook
 
+ * Dokumentation: https://github.com/hackts-ch/QuackStream#as-a-participant--team-repository-owner
  * URL: https://backend.quackstream.hackts.ch/webhook
 
 ## Deploio

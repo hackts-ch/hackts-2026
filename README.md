@@ -25,6 +25,7 @@ Alle Informationen zum Hackts?! 2026 Hackathon
  4. Lest die Dokumentation unter https://guides.deplo.io/ und
     https://github.com/ninech/deploio-examples
 
-## Präsentation Upload
+## Präsentation
 
+ * Template hier: [./hackts_pitch_template.pptx](hackts_pitch_template.pptx)
  * Upload unter https://drive.google.com/drive/folders/1vnq7E6-R1E0FULhh-u2EwipdeOoiBnkd?usp=sharing
